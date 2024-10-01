@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋!</h1>
+<h1 align="center">Hi! 👋</h1>
 <h2 align="center">My name is Gabriel and I'm a teenager, from Brazil</h2>
 
 ###
