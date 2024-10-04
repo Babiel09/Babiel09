@@ -1,40 +1,56 @@
-<h1 align="center">Hi! 👋</h1>
-<h2 align="center">My name is Gabriel and I'm a teenager, from Brazil</h2>
+![](https://komarev.com/ghpvc/?username=Faccin27&color=006bed)
 
-###
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gabriel+Castro!;" />
+</h1>
+
+<h3 align="center">A passionate programming apprentice from Brasil</h3>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Babiel09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ 
+ 🔭 I’m currently studing **front-end**
+ 
+ 🌱 I’m currently learning **Docker, next.js, DevOps, React**
+
+⚡ Fun fact **I'm the only programmer in my class**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:estudosbabiel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
 </div>
 
-###
-
-
-###
-<h2 align="center">Technologies:</h2>
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 <div align="center">
- <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg" width="60" alt="next logo"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" width="60" alt="React logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" width="60" alt="javascript logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" width="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" width="60"  alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" width="60" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Vite-Dark.svg" width="60" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" width="60" alt="git"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" width="60" alt="Docker"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" width="60" alt="vscode"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Sass.svg" width="60" alt="Sass"  />
+    <img src="https://skillicons.dev/icons?i=react,scss,docker,html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,nextjs,vite" /><br>
 </div>
 
-###
+<br/>
 
-###
+<hr/>
 
-<br clear="both">
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <img width="390" height="150" src="https://streak-stats.demolab.com?user=Babiel09&theme=react&border=true&border_radius=10" alt="streak stats" />
+  <img width="390" height="150" src="https://github-readme-stats.vercel.app/api?username=Babiel09&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width="325" height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Babiel09&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-###
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+
+<br/>
