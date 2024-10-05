@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, next.js, DevOps, React**
 
-⚡ Fun fact **I'm the only programmer in my class**
+⚡ Fun fact, **I'm the only programmer in my class**
 
  </div>
  
