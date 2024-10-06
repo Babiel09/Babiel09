@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently studing **front-end**
+ 🔭 I’m currently studing **Front-End and Back-End**
  
- 🌱 I’m currently learning **Docker, next.js, DevOps, React**
+ 🌱 I’m currently learning **Docker, Next.js, GO, React**
 
 ⚡ Fun fact, **I'm the only programmer in my class**
 
@@ -29,9 +29,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,vite,nextjs" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript" />
     <br>
-    <img src="https://skillicons.dev/icons?i=scss,docker,html,css,vscode,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=go,docker,nodejs,react,vite,nextjs" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=scss,html,css,vscode,github,git" /><br>
 </div>
 
 <br/>
