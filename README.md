@@ -34,6 +34,7 @@
     <img src="https://skillicons.dev/icons?i=docker,nodejs,react,vite,nextjs" />
     <br>
     <img src="https://skillicons.dev/icons?i=scss,html,css,vscode,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=npm,pnpm,yarn" /><br>
 </div>
 
 <br/>
