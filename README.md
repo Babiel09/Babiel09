@@ -29,7 +29,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,go,typescript" />
+    <img src="https://skillicons.dev/icons?i=javascript,golang,typescript" />
     <br>
     <img src="https://skillicons.dev/icons?i=docker,nodejs,react,vite,nextjs" />
     <br>
