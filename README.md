@@ -26,7 +26,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools-DB ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,golang,typescript" />
@@ -35,6 +35,7 @@
     <br>
     <img src="https://skillicons.dev/icons?i=scss,html,css,vscode,github,git" /><br>
     <img src="https://skillicons.dev/icons?i=npm,pnpm,yarn" /><br>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql" /><br>
 </div>
 
 <br/>
