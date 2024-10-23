@@ -35,7 +35,7 @@
     <br>
     <img src="https://skillicons.dev/icons?i=scss,html,css,vscode,github,git" /><br>
     <img src="https://skillicons.dev/icons?i=npm,pnpm,yarn" /><br>
-    <img src="https://skillicons.dev/icons?i=postgres,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql, gin" /><br>
 </div>
 
 <br/>
