@@ -12,7 +12,7 @@
  
  🔭 I’m currently studing **Front-End and Back-End**
  
- 🌱 I’m currently learning **Docker, Next.js, GO, React**
+ 🌱 I’m currently learning **Docker, Next.js, GO**
 
 ⚡ Fun fact, **I'm the only programmer in my class**
 
