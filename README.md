@@ -29,13 +29,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools-DB ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,golang,typescript" />
+    <img src="https://skillicons.dev/icons?i=javascript,golang,typescript,react,nextjs,nodejs,docker" />
     <br>
-    <img src="https://skillicons.dev/icons?i=docker,nodejs,react,vite,nextjs" />
+    <img src="https://skillicons.dev/icons?i=,html,css,vscode,github,git,postgres,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=,,tailwind,scss,vite,npm,pnpm,yarn" />
     <br>
-    <img src="https://skillicons.dev/icons?i=scss,html,css,vscode,github,git" /><br>
-    <img src="https://skillicons.dev/icons?i=npm,pnpm,yarn" /><br>
-    <img src="https://skillicons.dev/icons?i=postgres,mysql" /><br>
 </div>
 
 <br/>
