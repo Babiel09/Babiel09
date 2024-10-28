@@ -32,7 +32,7 @@
     <img src="https://skillicons.dev/icons?i=javascript,golang,typescript,react,nextjs,nodejs,docker" />
     <br>
     <img src="https://skillicons.dev/icons?i=,html,css,vscode,github,git,postgres" /><br>
-    <img src="https://skillicons.dev/icons?i=,,,tailwind,scss,vite,npm,pnpm,yarn" />
+    <img src="https://skillicons.dev/icons?i=,,tailwind,scss,vite,npm,pnpm,yarn" />
     <br>
 </div>
 
