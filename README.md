@@ -29,10 +29,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools-DB ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,golang,typescript,react,nextjs,nodejs,docker" />
+    <img src="https://skillicons.dev/icons?i=javascript,golang,typescript,react,nextjs,nodejs,npm" />
     <br>
-    <img src="https://skillicons.dev/icons?i=,html,css,vscode,github,git,postgres" /><br>
-    <img src="https://skillicons.dev/icons?i=,,tailwind,scss,vite,npm,pnpm,yarn" />
+    <img src="https://skillicons.dev/icons?i=,html,css,vscode,github,git,pnpm" /><br>
+    <img src="https://skillicons.dev/icons?i=,,tailwind,scss,vite,postgres,docker,yarn" />
     <br>
 </div>
 
