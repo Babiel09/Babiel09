@@ -12,7 +12,7 @@
  
  🔭 I’m currently studing **Front-End and Back-End**
  
- 🌱 I’m currently learning **Docker, Next.js, GO**
+ 🌱 I’m currently learning **Docker, fastify, Node.js**
 
 ⚡ Fun fact, **I'm the only programmer in my class**
 
@@ -29,10 +29,12 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools-DB ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,golang,typescript,react,nextjs,nodejs,npm" />
+    <img src="https://skillicons.dev/icons?i=javascript,golang,typescript,react,nextjs,nodejs,express" />
     <br>
-    <img src="https://skillicons.dev/icons?i=,html,css,vscode,github,git,pnpm" /><br>
-    <img src="https://skillicons.dev/icons?i=,,tailwind,scss,vite,postgres,docker,yarn" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,scss,vite,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm" /><br>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
     <br>
 </div>
 
