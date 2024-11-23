@@ -31,7 +31,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,golang,typescript,react,nextjs,nodejs,express" />
     <br>
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,postman" /><br>
     <img src="https://skillicons.dev/icons?i=tailwind,scss,vite,docker,prisma" /><br>
     <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm" /><br>
     <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
