@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently studing **Front-End and Back-End**
+ 🔭 I’m currently studing **Mechatronic Engineering**
  
- 🌱 I’m currently learning **Docker, fastify, Node.js**
+ 🌱 I’m currently learning **Docker, C**
 
 ⚡ Fun fact, **I'm the only programmer in my class**
 
