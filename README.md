@@ -10,11 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently studing **Mechatronic Engineering**
- 
- 🌱 I’m currently learning **Docker, C**
-
-⚡ Fun fact, **I'm the only programmer in my class**
+📕 I’m currently studing **Mechatronic Engineering**
 
  </div>
  
@@ -26,10 +22,10 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools-DB ⚒️</h2>
+<h2 align="center">𒈔Languages-Frameworks-Tools-DB𒈔</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,golang,typescript,react,nextjs,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=javascript,golang,c,typescript,react,nextjs,nodejs,express" />
     <br>
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,postman" /><br>
     <img src="https://skillicons.dev/icons?i=tailwind,scss,vite,docker,prisma" /><br>
