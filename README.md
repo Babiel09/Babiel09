@@ -10,7 +10,7 @@
 
 <div align="center">
  
-📕 I’m currently studing **Mechatronic Engineering**
+📕 I’m currently studing  **C and C++**
 
  </div>
  
