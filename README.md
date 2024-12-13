@@ -25,7 +25,7 @@
 <h2 align="center">𒈔Languages-Frameworks-Tools-DB𒈔</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,golang,c,typescript,react,nextjs,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=javascript,golang,c,typescript,react,nextjs,nodejs,express,nest" />
     <br>
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,postman" /><br>
     <img src="https://skillicons.dev/icons?i=tailwind,scss,vite,docker,prisma" /><br>
