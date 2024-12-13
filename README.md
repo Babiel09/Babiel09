@@ -10,7 +10,7 @@
 
 <div align="center">
  
-📕 I’m currently studing  **C and C++**
+📕 I’m currently studing  **Nest.js**
 
  </div>
  
