@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gabriel+Castro!;" />
 </h1>
 
-<h3 align="center">A passionate programming apprentice from Brazil</h3>
+<h3 align="center">A teenager programmer</h3>
 
 <br/>
 
@@ -20,9 +20,16 @@
   </a>
 </div>
 
+<div>
+<h2 align="center">🔥Goals🔥</h2>
+<div align="center">
+    <h3> Become a Software Engineer</h3>
+</div>
+</div>
+
  <hr/>
  
-<h2 align="center">𒈔Languages-Frameworks-Tools-DB𒈔</h2>
+<h2 align="center">💖 Languages-Frameworks-Tools-DB 💖</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,golang,c,typescript" />
