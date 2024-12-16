@@ -32,9 +32,9 @@
 <h2 align="center">💖 Languages-Frameworks-Tools-DB 💖</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,golang,c,typescript" />
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nest" />
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,postman,vercel" />
+    <img src="https://skillicons.dev/icons?i=javascript,golang,c,typescript,nest,nodejs,nextjs,react" />
+    <img src="https://skillicons.dev/icons?i=express,vercel,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=tailwind,scss,vite,docker,prisma" />
     <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm" />
     <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
