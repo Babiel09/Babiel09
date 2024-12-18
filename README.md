@@ -10,7 +10,7 @@
 
 <div align="center">
  
-📕 I’m currently studing  **Nest.js**
+📕 I’m currently studing  **Nest.js && BullMQ**
 
  </div>
  
@@ -32,12 +32,7 @@
 <h2 align="center">💖 Languages-Frameworks-Tools-DB 💖</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,golang,c,typescript,nest,nodejs,nextjs,react" />
-    <img src="https://skillicons.dev/icons?i=express,vercel,postman" />
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=tailwind,scss,vite,docker,prisma" />
-    <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm" />
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=javascript,golang,c,typescript,nest,nodejs,nextjs,react,express,postman,html,css,git,tailwind,scss,,,,vite,docker,prisma,npm,yarn,pnpm,postgres,mongodb,redis" />
 </div>
 
 <br/>
