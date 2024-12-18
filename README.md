@@ -1,58 +1,54 @@
 ![](https://komarev.com/ghpvc/?username=Babiel09&color=006bed)
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gabriel+Castro!;" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3500&pause=1000&color=0AF7F7&center=true&vCenter=true&width=700&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Gabriel+Castro!;Teenager+Programmer+%7C+Passionate+Developer;Welcome+to+my+GitHub+Profile!+%F0%9F%8E%89" alt="Header" />
+</p>
 
-<h3 align="center">A teenager programmer</h3>
+---
 
-<br/>
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently%20Learning-Nest.js%20%26%20BullMQ-FFC107?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<p align="center" style="font-size: 18px;">
+🔭 I’m currently studying **Nest.js**,**BullMQ** and **Redis**.<br>
+🎯 My goal is to become a <b>Software Engineer</b>. <br>
+💻 I love creating <b>clean, modern, and functional</b> projects.
+</p>
+
+---
+
+<h2 align="center">🛠️ Skills & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,nest,nodejs,nextjs,react,express,html,css,tailwind,scss,git,vite,docker,prisma,,,,,,postgres,mongodb,redis,postman,go,c" />
+</p>
+
+---
+
+<h2 align="center">⚡ GitHub Stats</h2>
 
 <div align="center">
- 
-📕 I’m currently studing  **Nest.js && BullMQ**
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Babiel09&show_icons=true&theme=tokyonight&border_radius=15" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Babiel09&layout=compact&langs_count=8&theme=tokyonight&border_radius=15" alt="Top Languages" />
+</div>
 
- </div>
- 
-<div align="center"> 
+---
+
+<h2 align="center">🌟 Featured Goals</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Become%20a%20Software%20Engineer-F50057?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+---
+
+<h2 align="center">📫 Contact Me</h2>
+
+<p align="center">
   <a href="mailto:estudosbabiel@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</div>
-
-<div>
-<h2 align="center">🔥Goals🔥</h2>
-<div align="center">
-    <h3> Become a Software Engineer</h3>
-</div>
-</div>
-
- <hr/>
- 
-<h2 align="center">💖 Languages-Frameworks-Tools-DB 💖</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,golang,c,typescript,nest,nodejs,nextjs,react,express,postman,html,css,git,tailwind,scss,,,,vite,docker,prisma,npm,yarn,pnpm,postgres,mongodb,redis" />
-</div>
-
-<br/>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <img width="390" height="150" src="https://github-readme-stats.vercel.app/api?username=Babiel09&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <br/>
-  <img width="325" height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Babiel09&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-
-<br/>
+</p>
