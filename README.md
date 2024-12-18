@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Babiel09&color=006bed)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3500&pause=1000&color=0AF7F7&center=true&vCenter=true&width=700&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Gabriel+Castro!;Teenager+Programmer+%7C+Passionate+Developer;Welcome+to+my+GitHub+Profile!+%F0%9F%8E%89" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3500&pause=1000&color=0AF7F7&center=true&vCenter=true&width=700&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Gabriel+Castro!;Teenager+Programmer;Welcome+to+my+GitHub+Profile!+%F0%9F%8E%89" alt="Header" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Learning-Nest.js%20%26%20BullMQ-FFC107?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Currently%20Learning-Nest.js,BullMQ%20%26%20REDIS-FFC107?style=for-the-badge&logo=typescript&logoColor=black" />
 </p>
 
 <p align="center" style="font-size: 18px;">
