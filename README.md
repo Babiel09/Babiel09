@@ -23,7 +23,7 @@
 <h2 align="center">🛠️ Skills & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,nest,nodejs,nextjs,react,express,html,css,tailwind,scss,git,vite,docker,prisma,,,,,,postgres,mongodb,redis,postman,go,c" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,nest,nodejs,nextjs,react,express,go,html,css,tailwind,git,c,docker,prisma,,,,,,postgres,mongodb,redis,postman,scss,vite" />
 </p>
 
 ---
