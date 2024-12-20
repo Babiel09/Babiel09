@@ -44,7 +44,7 @@
 <h2 align="center">🌟 Featured Goals</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Become%20a%20Software%20Engineer-F50057?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Become%20a%20Software%20Engineer-F50057?style=for-the-badge&logo=typescript&logoColor=white" /> 
 </p>
 
 ---
@@ -53,6 +53,10 @@
 
 <p align="center">
   <a href="mailto:estudosbabiel@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> 
+    
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=553196984558&text&type=phone_number&app_absent=" target="blank">
+     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
