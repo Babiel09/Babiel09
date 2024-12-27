@@ -13,7 +13,7 @@
 </p>
 
 <p align="center" style="font-size: 18px;">
-🔭 I’m currently studying **Nest.js**,**BullMQ** and **Redis**.<br>
+🔭 I’m currently studying **Nest.js**,**OAuth** and **Redis**.<br>
 🎯 My goal is to become a <b>Software Engineer</b>. <br>
 💻 I love creating <b>clean, modern, and functional</b> projects.
 </p>
