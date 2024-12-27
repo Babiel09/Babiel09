@@ -9,13 +9,13 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Learning-Nest.js,BullMQ%20%26%20REDIS-FFC107?style=for-the-badge&logo=typescript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Currently%20Learning-Nest.js, OAuth%20%26%20REDIS-FFC107?style=for-the-badge&logo=typescript&logoColor=black" />
 </p>
 
 <p align="center" style="font-size: 18px;">
-🔭 I’m currently studying **Nest.js**,**OAuth** and **Redis**.<br>
-🎯 My goal is to become a <b>Software Engineer</b>. <br>
-💻 I love creating <b>clean, modern, and functional</b> projects.
+🔭 I’m currently studying <strong>Nest.js</strong>,<strong>OAuth</strong> and <strong>Redis</strong>.<br>
+🎯 My goal is to become a <strong>Software Engineer</strong>. <br>
+💻 I love creating <strong>clean, modern, and functional</strong> projects.
 </p>
 
 ---
