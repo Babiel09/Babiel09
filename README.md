@@ -24,7 +24,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postman" /><br/>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,c,go" /><br/>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,c,java" /><br/>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,scss" /><br/>
   <img src="https://skillicons.dev/icons?i=git,docker,postgres,mongodb,redis" /><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,nest,nextjs,react,express,prisma,vite" /><br/>
